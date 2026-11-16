@@ -13,4 +13,8 @@ pyenv activate virtual-env-3.11.2
 pip install matplotlib seaborn numpy pandas jupyterlab jupyter networkx geopandas geopy basemap
 ```
 
-Run `jupyter notebook` to run the notebook file. This code needs external data to be runned, which is not provided due to ethical reasons.
+Run `jupyter notebook` to run the notebook file.
+
+Due to copyright and ethical reasons, we do not provide the complete data required to run the analysis.
+A simplified deidentified network data is accessible at: https://doi.org/10.5281/zenodo.14286441.
+We do not provide the complete identified network data or the shapefiles.
